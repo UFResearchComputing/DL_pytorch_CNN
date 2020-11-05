@@ -17,4 +17,4 @@ This training module has four notebooks:
 * [Neural Networks and Loss functions](3_neural_networks_tutorial.ipynb)
 * [Training a CNN Classifier for image recognition](4_cifar10_tutorial.ipynb)
 
-You can run these notebooks in [JupyterHub on HiPerGator](https://jupyterhub.rc.ufl.edu/) or open them in the [Google Colavoratory](https://colab.research.google.com/github/UFResearchComputing/DL_pytorch_CNN/blob/main/1_tensor_tutorial.ipynb).
+You can run these notebooks in [JupyterHub on HiPerGator](https://jupyterhub.rc.ufl.edu/) or open them in the [Google Colaboratory](https://colab.research.google.com/github/UFResearchComputing/DL_pytorch_CNN/blob/main/1_tensor_tutorial.ipynb).
